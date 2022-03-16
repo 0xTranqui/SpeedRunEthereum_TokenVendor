@@ -1,6 +1,14 @@
-# 🏗 scaffold-eth | 🏰 BuidlGuidl
+# THIS IS MY IMPLEMENTAITON OF SPEED RUN ETHEREUM CHALLENGE #2 - TOKEN VENDOR
 
-## 🚩 Challenge 2: 🏵 Token Vendor 🤖
+## I AM NOT THE CREATOR OF SPEED RUN ETHEREUM OR SCAFFOLD-ETH
+
+Link to Speed Run Ethereum Challenge #2: https://speedrunethereum.com/challenge/token-vendor
+
+Link to Scaffold-Eth Repo: https://github.com/scaffold-eth/scaffold-eth
+
+🏗 scaffold-eth | 🏰 BuidlGuidl
+
+🚩 Challenge 2: 🏵 Token Vendor 🤖
 
 
 > 🤖 Smart contracts are kind of like "always on" *vending machines* that **anyone** can access. Let's make a decentralized, digital currency. Then, let's build an unstoppable vending machine that will buy and sell the currency. We'll learn about the "approve" pattern for ERC20s and how contract to contract interactions work.  
