@@ -6,6 +6,12 @@ Link to Speed Run Ethereum Challenge #2: https://speedrunethereum.com/challenge/
 
 Link to Scaffold-Eth Repo: https://github.com/scaffold-eth/scaffold-eth
 
+Sources I Consulted During Exercise:
+
+-https://docs.openzeppelin.com/contracts/3.x/api/token/erc20
+-https://docs.openzeppelin.com/contracts/2.x/access-control
+-https://stackoverflow.com/questions/67341914/error-send-and-transfer-are-only-available-for-objects-of-type-address-payable
+-https://docs.ethhub.io/guides/a-straightforward-guide-erc20-tokens/
 
 🏗 scaffold-eth | 🏰 BuidlGuidl
 
