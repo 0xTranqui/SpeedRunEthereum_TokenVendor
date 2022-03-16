@@ -2,6 +2,12 @@
 
 # I AM NOT THE CREATOR OF SPEED RUN ETHEREUM OR SCAFFOLD-ETH
 
+Link to deployed Vendor contract: https://rinkeby.etherscan.io/address/0x51d040f7365f0a87ffb72898165ddf275cf9c169
+
+Link to deployed YourToken contract: https://rinkeby.etherscan.io/address/0xa231aecc03d72666754273b4eb90113e632a14da
+
+Link to deployer address: https://rinkeby.etherscan.io/address/0x983ee9ab742ff5da90918facde0e135492b4cec9
+
 Link to Speed Run Ethereum Challenge #2: https://speedrunethereum.com/challenge/token-vendor
 
 Link to Scaffold-Eth Repo: https://github.com/scaffold-eth/scaffold-eth
