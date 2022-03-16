@@ -6,6 +6,7 @@ Link to Speed Run Ethereum Challenge #2: https://speedrunethereum.com/challenge/
 
 Link to Scaffold-Eth Repo: https://github.com/scaffold-eth/scaffold-eth
 
+
 🏗 scaffold-eth | 🏰 BuidlGuidl
 
 🚩 Challenge 2: 🏵 Token Vendor 🤖
