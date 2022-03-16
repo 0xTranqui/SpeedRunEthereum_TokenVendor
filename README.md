@@ -22,6 +22,8 @@ Sources I Consulted During Exercise:
 
 -https://docs.ethhub.io/guides/a-straightforward-guide-erc20-tokens/
 
+### content under this line is not mine:
+
 🏗 scaffold-eth | 🏰 BuidlGuidl
 
 🚩 Challenge 2: 🏵 Token Vendor 🤖
